@@ -58,7 +58,7 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: Home
+    label: MyHome
 
   -
     href: /open-source
