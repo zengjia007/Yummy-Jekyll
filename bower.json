@@ -1,12 +1,12 @@
 {
-  "name": "Yummy-Jekyll",
-  "description": "Jekyll Theme",
+  "name": "myblog",
+  "description": "myblog Theme",
   "main": "",
   "keywords": [
     "jekyll"
   ],
   "authors": [
-    "DONG Chuan"
+    "other author"
   ],
   "license": "MIT",
   "homepage": "",
